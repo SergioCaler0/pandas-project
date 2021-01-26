@@ -1,4 +1,4 @@
-![portada](https://github.com/ironhack-datalabs/datamad1020-rev/blob/master/projects/W2-Pandas-project/portada.jpg)
+
 ![Tiburon_blanco](https://github.com/SergioCaler0/pandas-project/blob/main/images/tiburon_blanco.jpeg)
 
 
