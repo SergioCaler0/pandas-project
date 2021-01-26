@@ -1,5 +1,5 @@
 ![portada](https://github.com/ironhack-datalabs/datamad1020-rev/blob/master/projects/W2-Pandas-project/portada.jpg)
-![Tiburon_blanco](http://localhost:8888/files/images/tiburon%20blanco.jpeg)
+![Tiburon_blanco](http://home/sergio/Escritorio/Ironhack_projects/images.jpeg)
 
 # Shark attack - Pandas project
 
